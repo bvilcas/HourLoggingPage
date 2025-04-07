@@ -1,7 +1,6 @@
 # Hour Logging Page Full Stack Application
 
 Complete instructions on how to set up the front and back-ends for compiling.
-
 You must follow each step carefully or the application will not work.
 
 Disclaimer: These instructions are for setting up a local environment.
